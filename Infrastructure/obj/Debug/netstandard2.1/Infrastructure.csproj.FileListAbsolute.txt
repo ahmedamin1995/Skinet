@@ -1,0 +1,13 @@
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.AssemblyReference.cache
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+F:\iti_courses\MyProjects\CodeAffectionTutorials\Skinet\Skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
