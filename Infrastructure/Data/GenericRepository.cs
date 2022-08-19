@@ -26,7 +26,7 @@ namespace Infrastructure.Data
    
         public void Delete(T entity)
         {
-            _context.Set<T>().Add(entity);
+            _context.Set<T>().Remove(entity);
         }
 
         public async Task<T> GetByIdAsync(int id)

@@ -1,4 +1,4 @@
-﻿using API.Entities;
+﻿using Core.Entities;
 using Microsoft.Extensions.Logging;
 using System.Text.Json;
 using System;
@@ -8,6 +8,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using Core.Entities.OrderAggregate;
 
 namespace Infrastructure.Data
 {
@@ -67,6 +68,22 @@ namespace Infrastructure.Data
                     await context.SaveChangesAsync();
                 }
 
+
+                if (!context.DeliveryMethods.Any())
+                {
+                    var deliveryMethodsData =
+                        File.ReadAllText("../Infrastructure/Data/SeedData/DeliveryMethods.json");
+
+                    var deliveryMethods = JsonSerializer.Deserialize<List<DeliveryMethod>>(deliveryMethodsData);
+
+
+
+                    context.DeliveryMethods.AddRange(deliveryMethods);
+
+
+
+                    await context.SaveChangesAsync();
+                }
             }
 			catch (Exception ex)
 			{

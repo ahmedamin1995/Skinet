@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using API.DTOs;
-using API.Entities;
+using Core.Entities;
 using API.Helper;
 using AutoMapper;
 using Core.Interfaces;
