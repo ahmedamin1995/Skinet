@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    //Buggy12
+    //Buggy1223655
     public class BuggyController : BaseApiController
     {
      
@@ -19,7 +19,7 @@ namespace API.Controllers
         {
             _context = context;
         }
-
+//authorized
         [HttpGet("testauth")]
         [Authorize]
         public ActionResult<string> GetSecretText()
