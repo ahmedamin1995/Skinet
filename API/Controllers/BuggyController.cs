@@ -19,7 +19,7 @@ namespace API.Controllers
         {
             _context = context;
         }
-        //authoriez from vs2022
+        //authoriez from vs2023
         [HttpGet("testauth")]
         [Authorize]
         public ActionResult<string> GetSecretText()
