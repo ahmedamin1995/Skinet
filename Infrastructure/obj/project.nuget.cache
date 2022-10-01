@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PhwFs4JZZG7OYHEfhKGsbyZ8bO3M0lGGJ6dbseaCqmf7x66Z5uxtohpeXsyzxF/RjPqTJiMx2RMLnsLRLnZQRA==",
+  "dgSpecHash": "Zo857iVeiDxMrNGs7yZWobK2NhPtnLzTbK5WxviJME5Rq16aVTx1u2MslhhunyVuxWm79WXU4h/0UabUIYZ3Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed amin\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Ahmed amin\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

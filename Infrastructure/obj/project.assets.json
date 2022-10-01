@@ -8470,9 +8470,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ahmed amin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -8491,8 +8491,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Core\\Core.csproj"
+            "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Core\\Core.csproj"
             }
           }
         }

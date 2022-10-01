@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "agrXfhIa7bL35TG++2IHB2YYLUOQdXsHt967l8pcX/oCT2VXHpCKgb3UUf3NMr/AC3UkJyMG6iVJUIk46RG5kw==",
+  "dgSpecHash": "nIRJYFCYoBFZ2l9JP4DrMncEmEoCthL1synmo+rUAUzTYvk/k/KlBboJ3TmZafzIO0MtL+/83mYQxHa14I3HlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed amin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.26\\microsoft.aspnetcore.cryptography.internal.3.1.26.nupkg.sha512",
     "C:\\Users\\Ahmed amin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.26\\microsoft.aspnetcore.cryptography.keyderivation.3.1.26.nupkg.sha512",

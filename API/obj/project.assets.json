@@ -10362,11 +10362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Ahmed amin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahmed amin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10383,8 +10383,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Ahmed amin\\Source\\Repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Ahmed amin\\source\\repos\\ahmedamin1995\\Skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
